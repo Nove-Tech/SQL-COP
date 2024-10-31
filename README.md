@@ -2,6 +2,16 @@
 
 **SQL Audit Cop** is a powerful plugin designed specifically for the JetBrains series of IDEs (such as IntelliJ IDEA), aimed at simplifying and optimizing your SQL auditing process. Whether you are a database administrator, backend developer, or data analyst, SQL Audit Cop can help you enhance work efficiency and ensure code quality.
 
+## Install
+
+1. **Visit the JetBrains Marketplace:**
+   - Go to the [SQL Audit Cop plugin page](https://plugins.jetbrains.com/plugin/25538-sql-cop).
+   ![JetBrains Marketplace Page Screenshot](assets/market-screenshot1.png)
+
+2. **Download the Plugin:**
+   - Click the "Install" button to get the latest version of SQL Audit Cop.
+   ![Download Button Screenshot](assets/market-screenshot2.png)
+
 ## Key Features
 
 * **Intelligent SQL Statement Auditing**
@@ -37,7 +47,3 @@
 * **Extensive Compatibility:** Supports over a dozen mainstream databases, catering to a wide range of development needs.
 * **User-Friendly:** Features an intuitive interface design that is easy to use, enhancing the user experience.
 * **Continuous Support:** Backed by a professional technical support team that promptly addresses your needs and feedback.
-
-## Get Started Now
-
-Download **SQL Audit Cop** from the [JetBrains Plugin Marketplace](https://plugins.jetbrains.com/) today and embark on an intelligent and efficient SQL auditing journey, making your development work smoother and worry-free!
