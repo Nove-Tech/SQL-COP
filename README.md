@@ -10,7 +10,12 @@
 
 2. **Download the Plugin:**
    - Click the "Install" button to get the latest version of SQL Audit Cop.
-   ![Download Button Screenshot](assets/market-screenshot2.png)
+   ![Download Button Screenshot](assets/market-screenshot3.png)
+
+3. **View Audit Reports in the IDE:**
+   - You can now view SQL audit reports directly within your IDE.
+   - ![Audit Reports Screenshot](assets/market-screenshot2.png)
+   - For more detailed usage instructions, please refer to the [plugin homepage](https://plugins.jetbrains.com/plugin/25538-sql-cop).  
 
 ## Key Features
 
